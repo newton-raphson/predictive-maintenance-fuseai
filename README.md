@@ -17,4 +17,4 @@ accuracy 0.96. XGB boosting doesn’t much improve accuracy and recall.
 
 ## Reports 
 
-[Final Report](https://github.com/newton-raphson/predictive-maintenance-fuseai/report/FUSE MACHINE ML PROJECT REPORT.pdf)
+[Final Report](https://github.com/newton-raphson/predictive-maintenance-fuseai/blob/main/report/FUSE%20MACHINE%20ML%20PROJECT%20REPORT.pdf)
